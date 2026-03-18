@@ -1,6 +1,7 @@
 import { useCart } from '../context/CartContext';
 import { X, Plus, Minus, ShoppingBag, ArrowRight, Trash2 } from 'lucide-react';
 import { useState } from 'react';
+import { createPortal } from 'react-dom';
 import CheckoutModal from './CheckoutModal';
 
 export default function CartDrawer() {
@@ -9,7 +10,7 @@ export default function CartDrawer() {
 
   if (!isCartOpen) return null;
 
-  return (
+  return createPortal(
     <>
       {/* Backdrop */}
       <div 
@@ -45,7 +46,7 @@ export default function CartDrawer() {
               <p className="text-gray-400 text-sm">Add some fuel to get started!</p>
               <button 
                 onClick={() => setIsCartOpen(false)}
-                className="mt-6 px-6 py-3 bg-[#FFD900] text-[#0B0B0D] font-semibold rounded-lg hover:bg-yellow-400 transition-colors"
+                className="mt-6 px-6 py-3 bg-[#FFD900] text-[#0B0B0D] font-semibold rounded-lg hover:bg-yellow-400 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
               >
                 BROWSE MENU
               </button>
@@ -120,7 +121,7 @@ export default function CartDrawer() {
             {/* Checkout Button */}
             <button 
               onClick={() => setCheckoutOpen(true)}
-              className="w-full py-4 bg-[#FFD900] text-[#0B0B0D] font-bold text-lg rounded-lg hover:bg-yellow-400 transition-colors flex items-center justify-center gap-2"
+              className="w-full py-4 bg-[#FFD900] text-[#0B0B0D] font-bold text-lg rounded-lg hover:bg-yellow-400 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 flex items-center justify-center gap-2"
             >
               PROCEED TO CHECKOUT <ArrowRight className="w-5 h-5" />
             </button>
@@ -151,6 +152,7 @@ export default function CartDrawer() {
           animation: slide-in-right 0.3s ease-out;
         }
       `}</style>
-    </>
+    </>,
+    document.body
   );
 }

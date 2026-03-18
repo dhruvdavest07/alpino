@@ -201,7 +201,7 @@ function MenuModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }
         {/* Menu grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredItems.map((item) => (
-            <div key={item.id} className="bg-gray-50 rounded-lg overflow-hidden group hover:shadow-lg transition-shadow">
+            <div key={item.id} className="bg-white border border-gray-100 rounded-xl overflow-hidden group hover:shadow-xl hover:border-red-100 transition-all duration-300 cursor-pointer">
               <div className="h-48 overflow-hidden">
                 <img src={item.image} loading="lazy" alt={item.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
               </div>
@@ -224,7 +224,7 @@ function MenuModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }
                   <span className="font-display text-xl text-[#E31B23]">₹{item.price}</span>
                   <button 
                     onClick={() => handleAddToCart(item)}
-                    className="px-4 py-2 bg-[#FFD900] text-[#0B0B0D] font-semibold text-sm rounded hover:bg-yellow-400 active:scale-95 transition-all flex items-center gap-2"
+                    className="px-4 py-2 bg-[#FFD900] text-[#0B0B0D] font-semibold text-sm rounded-lg hover:bg-yellow-400 hover:shadow-md active:scale-95 transition-all duration-200 flex items-center gap-2"
                   >
                     <ShoppingBag className="w-4 h-4" />
                     ADD
@@ -288,7 +288,7 @@ function FranchiseModal({ isOpen, onClose, onSubmit }: { isOpen: boolean; onClos
               type="text" 
               required
               className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:border-[#E31B23]"
-              placeholder="John Doe"
+              placeholder="Your Name"
               value={formData.name}
               onChange={e => setFormData({...formData, name: e.target.value})}
             />
@@ -299,7 +299,7 @@ function FranchiseModal({ isOpen, onClose, onSubmit }: { isOpen: boolean; onClos
               type="email" 
               required
               className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:border-[#E31B23]"
-              placeholder="john@example.com"
+              placeholder="you@email.com"
               value={formData.email}
               onChange={e => setFormData({...formData, email: e.target.value})}
             />
@@ -495,7 +495,7 @@ function Navigation({
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-8 py-6">
+    <nav className="fixed top-4 left-4 right-4 z-50 flex items-center justify-between px-6 md:px-8 py-4 bg-[#0B0B0D]/80 backdrop-blur-md rounded-2xl border border-white/10 shadow-lg">
       <div 
         className="font-display text-2xl text-white mix-blend-difference cursor-pointer" 
         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
@@ -868,7 +868,7 @@ function AppContent() {
           </div>
 
           <div className="section-image image-panel" style={{ right: '6vw', top: '18vh' }}>
-            <img src="/menu_wrap.jpg" alt="Grilled Chicken Wrap" />
+            <img src="/protein_wrap.png" alt="Grilled Chicken Wrap" />
           </div>
         </div>
 
@@ -887,7 +887,7 @@ function AppContent() {
         
         <div className="relative z-10 h-full flex items-center">
           <div className="section-image image-panel" style={{ left: '6vw', top: '18vh' }}>
-            <img src="/clean_salad.jpg" alt="Clean Salad" />
+            <img src="/pro_bowl.png" alt="Clean Salad" />
           </div>
 
           <div className="section-text absolute right-[8vw] top-1/2 -translate-y-1/2 max-w-[40vw]">

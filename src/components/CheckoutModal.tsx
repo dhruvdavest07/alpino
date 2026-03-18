@@ -166,7 +166,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
                         value={formData.name}
                         onChange={handleInputChange}
                         className="w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:border-[#E31B23]"
-                        placeholder="John Doe"
+                        placeholder="Your Name"
                       />
                     </div>
                   </div>
@@ -182,7 +182,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
                           value={formData.email}
                           onChange={handleInputChange}
                           className="w-full pl-10 pr-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:border-[#E31B23]"
-                          placeholder="john@example.com"
+                          placeholder="you@email.com"
                         />
                       </div>
                     </div>
@@ -265,7 +265,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
                 <button 
                   onClick={handleProceedToPayment}
                   disabled={!isFormValid()}
-                  className="w-full py-4 bg-[#FFD900] text-[#0B0B0D] font-bold text-lg rounded-lg hover:bg-yellow-400 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                  className="w-full py-4 bg-[#FFD900] text-[#0B0B0D] font-bold text-lg rounded-lg hover:bg-yellow-400 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   PROCEED TO PAYMENT
                 </button>
@@ -293,7 +293,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
                 <div className="space-y-3">
                   <button 
                     onClick={handlePayment}
-                    className="w-full py-4 bg-[#E31B23] text-white font-bold text-lg rounded-lg hover:bg-[#c41820] transition-colors flex items-center justify-center gap-2"
+                    className="w-full py-4 bg-[#E31B23] text-white font-bold text-lg rounded-lg hover:bg-[#c41820] hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 flex items-center justify-center gap-2"
                   >
                     <CreditCard className="w-5 h-5" />
                     PAY WITH RAZORPAY
@@ -301,7 +301,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
                   
                   <button 
                     onClick={() => setStep('details')}
-                    className="w-full py-3 border border-gray-300 text-gray-700 font-medium rounded-lg hover:bg-gray-50 transition-colors"
+                    className="w-full py-3 border border-gray-300 text-gray-700 font-medium rounded-lg hover:bg-gray-50 hover:shadow transition-all duration-200"
                   >
                     Back to Details
                   </button>

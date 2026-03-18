@@ -1,0 +1,89 @@
+# Alpino Protein Café — Menu Update from Final Menu Document
+
+## Goal
+Replace the current 6 hardcoded placeholder menu items with the full **43-item menu** from `Alpino_High_Protein_Menu.docx`. This includes restructuring categories from 4 → 10, generating AI placeholder food images, and ensuring the menu modal + cart still work seamlessly.
+
+## Proposed Changes
+
+### Menu Data & Images
+
+#### [MODIFY] [App.tsx](file:///c:/Users/Student/Desktop/alpino/src/App.tsx)
+
+**1. Replace `menuItems` array (lines 22-29)**
+- Expand from 6 items → 43 items matching the final menu document
+- New categories: `Club Sandwiches`, `Wraps`, `Open Sandwiches`, `Pro Bowls`, `Smoothies & Bowls`, `Protein Boba Tea`, `Coolers`, `Sides & Dips`, `Desserts`
+- Each item will have: `id`, `name`, `description`, `protein` (estimated), `calories` (estimated), `price` (estimated based on ₹300 AOV from ROI model), `image`, `category`
+- Since exact prices, protein, and calorie counts aren't in the menu doc, we'll assign reasonable estimates based on the category and the ROI model AOV of ₹300
+
+**2. Update category filters in [MenuModal](file:///c:/Users/Student/Desktop/alpino/src/App.tsx#92-182) (line 98)**
+- Change from `['ALL', 'Bowls', 'Wraps', 'Smoothies', 'Coffee']`
+- To `['ALL', 'Club Sandwiches', 'Wraps', 'Open Sandwiches', 'Pro Bowls', 'Smoothies & Bowls', 'Coolers', 'Sides & Dips', 'Desserts']`
+- Protein Boba Tea (1 item) will be included under `Smoothies & Bowls` to avoid a category with a single item
+
+**3. Update Fuel Menu section subtitle (line 765)**
+- Change from `Bowls · Wraps · Smoothies · Coffee`
+- To `Sandwiches · Wraps · Bowls · Smoothies · Desserts`
+
+**4. Add item descriptions to menu cards**
+- Each menu card will display the description from the menu doc below the item name
+- This is a minor JSX change in the [MenuModal](file:///c:/Users/Student/Desktop/alpino/src/App.tsx#92-182) component
+
+---
+
+### AI-Generated Placeholder Images
+
+Since real product photos aren't available yet, I'll use the `generate_image` tool to create **representative food images** for each category (one image per category, shared across items in that category). This gives us ~9 images total:
+
+1. `club_sandwich.jpg` — Club Sandwiches / Pita Pockets
+2. `protein_wrap.jpg` — Wraps
+3. `open_sandwich.jpg` — Open Sandwiches
+4. `pro_bowl.jpg` — Pro Bowls
+5. `smoothie_bowl.jpg` — Smoothies & Bowls
+6. `boba_tea.jpg` — Protein Boba Tea (reuse smoothie)
+7. `cooler_drink.jpg` — Coolers
+8. `sides_dips.jpg` — Sides & Dips
+9. `dessert_plate.jpg` — Desserts
+
+These will be placed at the project root as static assets (similar to existing images like `hero_bowl.jpg`).
+
+> [!IMPORTANT]
+> **Pricing & Nutrition Estimates**: The menu document does NOT include prices, protein, or calorie values. I will assign reasonable estimates:
+> - **Sandwiches/Wraps**: ₹249–349, 22–35g protein, 350–480 cal
+> - **Bowls**: ₹279–349, 25–42g protein, 380–520 cal
+> - **Smoothies/Boba**: ₹199–249, 18–28g protein, 200–320 cal
+> - **Coolers**: ₹149–199, 0–5g protein, 80–150 cal
+> - **Sides & Dips**: ₹99–179, 5–12g protein, 80–200 cal
+> - **Desserts**: ₹199–279, 15–25g protein, 280–400 cal
+> 
+> These can be adjusted later when the company provides final pricing.
+
+## What Will NOT Change
+- Cart functionality (`CartContext.tsx`, [CartDrawer.tsx](file:///c:/Users/Student/Desktop/alpino/src/components/CartDrawer.tsx))
+- Checkout flow ([CheckoutModal.tsx](file:///c:/Users/Student/Desktop/alpino/src/components/CheckoutModal.tsx), [OrderSuccessModal.tsx](file:///c:/Users/Student/Desktop/alpino/src/components/OrderSuccessModal.tsx))
+- All GSAP animations and scroll sections
+- Navigation, footer, other modals (Franchise, Loyalty, Locations)
+- Overall styling and design system
+
+## Suggested Additional Improvements (for later)
+1. **UI polish**: Category filter scrollable horizontally on mobile (overflow-x-auto)
+2. **Menu modal**: Add the item description text from the menu doc
+3. **Locations**: Update to match capstone city recommendations (16 cities)
+4. **Franchise model**: Update text from "FOCO" to also mention COCO model per capstone
+5. **Our Story section**: Add Shark Tank S1 mention, Shilpa Shetty brand ambassador
+6. **Contact**: Add real contact details if available
+7. **Animation smoothness**: Deferred to Phase 2 per user request
+
+## Verification Plan
+
+### Build Check
+- Run `npm run build` to ensure TypeScript compiles without errors after changes
+
+### Browser Visual Test
+- Run `npm run dev` and verify:
+  1. Menu modal opens with all 10 categories visible
+  2. Category filter buttons work and display correct items
+  3. Each item shows name, description, protein, calories, price, and image
+  4. Add to Cart works for new items
+  5. Cart drawer displays correct item details
+  6. Checkout flow completes with new items
+  7. Hero sections and scroll animations still work properly
