@@ -201,11 +201,11 @@ function MenuModal({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }
         {/* Menu grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredItems.map((item) => (
-            <div key={item.id} className="bg-white border border-gray-100 rounded-xl overflow-hidden group hover:shadow-xl hover:border-red-100 transition-all duration-300 cursor-pointer">
+            <div key={item.id} className="bg-white border border-gray-100 rounded-xl overflow-hidden group hover:shadow-xl hover:border-red-100 transition-all duration-300 cursor-pointer flex flex-col">
               <div className="h-48 overflow-hidden">
                 <img src={item.image} loading="lazy" alt={item.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
               </div>
-              <div className="p-4 flex flex-col h-full">
+              <div className="p-4 flex flex-col flex-1">
                 <div className="flex items-start justify-between mb-1">
                   <h4 className="font-bold text-[#0B0B0D] line-clamp-2">{item.name}</h4>
                   <div className="w-4 h-4 shrink-0 rounded-sm border border-green-600 flex items-center justify-center mt-1" title="100% Vegetarian">
