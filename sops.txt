@@ -1,0 +1,577 @@
+QUALITY SERVICE RESTAURANT
+ALPINO
+C A F É
+Standard Operating Procedures
+QSR Franchise Operations Handbook
+■ Outlet Model   400–500 sq ft QSR Café
+■ Staff per Shift  3–4 Employees
+■ POS System   PetPooja
+■ Priorities       Speed · Consistency · Hygiene · Experience · Scalability
+----------------Page (0) Break----------------
+Table of Contents
+Contents
+1   1  SOP 1: Store Opening Procedure                                                     4
+1.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.3  Required Tools & Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.4  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+2   2  SOP 2: Staff Uniform and Grooming Standards                                         5
+2.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+2.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+2.3  Required Uniform . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+2.4  Grooming Standards  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+2.5  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+3   3  SOP 3: Customer Greeting and Order Taking                                          5
+3.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+3.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+3.3  Required Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+3.4  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+4   4  SOP 4: Order Processing Using POS (PetPooja)                                       7
+4.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+4.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+4.3  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+5   5  SOP 5: Beverage Preparation Standards                                              7
+5.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+5.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+5.3  Required Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+5.4  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   8
+6   6  SOP 6: Protein Bowl / Healthy Meal Assembly                                          9
+6.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+6.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+6.3  Required Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+6.4  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+7   7  SOP 7: Food Safety and Hygiene Standards                                           9
+7.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+7.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+7.3  Hygiene Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+7.4  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+8   8  SOP 8: Inventory Management and Daily Stock Checks                                11
+8.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+8.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+8.3  Required Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+8.4  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+9   9  SOP 9: Ingredient Storage and Cold Chain Management                               11
+2
+----------------Page (1) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+9.1  Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+9.2  Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+9.3  Required Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+9.4  Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+10  10  SOP 10: Waste Management and Expiry Control                                     13
+10.1 Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+10.2 Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+10.3 Required Equipment  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+10.4 Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+11  11  SOP 11: Customer Service and Complaint Handling                                  13
+11.1 Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+11.2 Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+11.3 Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+12  12  SOP 12: Store Closing Procedure                                                  15
+12.1 Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+12.2 Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+12.3 Step-by-Step Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+13  13  SOP 13: Staff Training and Onboarding                                             15
+13.1 Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+13.2 Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+13.3 Training Programme Structure (15–20 Days) . . . . . . . . . . . . . . . . . . .  16
+14  14  SOP 14: Franchise Quality Audit Checklist                                           17
+14.1 Scope  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+14.2 Responsible Staff  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+14.3 Audit Areas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+14.4 Audit Scoring System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Confidential — Internal Use Only                                                                     3
+----------------Page (2) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+1
+SOP 1: Store Opening Procedure
+Objective: To ensure the café is fully operational, clean, and ready to serve customers before
+opening hours.
+Scope
+Applies to all Alpino Café outlets and all
+opening shift staff.
+Responsible Staff
+• Store Manager
+• Shift Supervisor
+• Kitchen Staff
+Required Tools & Equipment
+• POS terminal
+• Cleaning equipment
+• Ingredient prep containers
+• Temperature log sheets
+Step-by-Step Procedure
+1. Store Entry and Safety Check
+5 min
+Manager unlocks store 30 minutes before opening time. Turn on the main power supply.
+Inspect the kitchen area for safety issues.
+2. Equipment Activation
+5 min
+Turn on: coffee machine, blender stations, refrigerator and display units, POS system.
+3. Ingredient Preparation
+10 min
+Kitchen staff prepare: chopped vegetables, sandwich fillings, smoothie bases.
+4. POS System Check
+3 min
+Verify: menu items active, pricing updated, online aggregators synced.
+5. Store Readiness
+5 min
+Check: dining area cleanliness, takeaway packaging availability, beverage cups stocked.
+Quality Control Checklist
+✓ All equipment functioning✓ Ingredients prepped and stored correctly
+✓ POS system operational✓ Store cleaned and organised
+Total Expected Opening Time: 25–30 minutes
+Confidential — Internal Use Only                                                                     4
+----------------Page (3) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+2
+SOP 2: Staff Uniform and Grooming Standards
+Objective: To maintain a professional and hygienic appearance for all Alpino Café employees.
+Scope
+Applies to all front-of-house and kitchen
+staff.
+Responsible Staff
+• Store Manager
+• Shift Supervisor
+Required Uniform
+• Alpino branded t-shirt
+• Black trousers
+• Apron
+• Closed-toe shoes
+• Hair net (kitchen staff)
+Grooming Standards
+Employees must maintain clean hands and nails, avoid jewellery while handling food, keep
+hair tied back, and maintain overall hygiene.
+Step-by-Step Procedure
+1. Pre-Shift Uniform Check
+2 min / employee
+Supervisor checks uniform cleanliness, personal hygiene, and name badge visibility.
+Quality Control Checklist
+✓ Uniform clean and ironed✓ Hair tied or covered
+✓ Hands sanitised before shift✓ No jewellery in the kitchen area
+3
+SOP 3: Customer Greeting and Order Taking
+Objective: To ensure fast, professional, and friendly service while maintaining high order
+accuracy.
+Scope
+Applies to all customer-facing staff.
+Responsible Staff
+• Cashier
+• Shift Supervisor
+Required Equipment
+• POS terminal
+• Order display system
+• Receipt printer
+Step-by-Step Procedure
+1. Greeting
+≤ 5 sec
+Greet the customer within 5 seconds of entry.
+Standard greeting: “Welcome to Alpino Café! What can I get started for you today?”
+2. Identify Order Type
+5 sec
+Ask if the order is for dine-in or takeaway.
+Confidential — Internal Use Only                                                                     5
+----------------Page (4) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+3. Take Order
+30–45 sec
+Input order into POS. Confirm item name, quantity, and customisation.
+4. Suggest Upsell
+5 sec
+Recommend one add-on. Example: “Would you like to add a smoothie or protein bowl
+with that?”
+5. Payment Processing
+10 sec
+Accept UPI, card, or cash. Print receipt.
+Quality Control Checklist
+✓ Order correctly entered in POS✓ Customer order confirmed verbally
+✓ Receipt provided✓ Upsell attempted
+Total Expected Order Time: 45–60 seconds
+Confidential — Internal Use Only                                                                     6
+----------------Page (5) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+4
+SOP 4: Order Processing Using POS (PetPooja)
+Objective: To ensure accurate order processing and efficient coordination between the cashier
+and kitchen.
+Scope
+Applies to all POS operators and kitchen
+staff.
+Responsible Staff
+• Cashier
+• Kitchen Staff
+Step-by-Step Procedure
+1. Order Entry
+30 sec
+Cashier inputs order into the POS system.
+2. Kitchen Notification
+Instant
+Order automatically appears on the kitchen display system or order ticket printer.
+3. Order Preparation
+Kitchen staff begin preparation immediately.
+• Beverages — 90 seconds
+• Sandwiches — 2 minutes
+• Protein bowls — 3 minutes
+4. Order Completion
+< 3 min total
+Kitchen staff mark order as completed. Cashier calls customer number.
+Quality Control Checklist
+✓ Order matches POS receipt✓ Items prepared correctly
+✓ Order served within time target✓ Packaging correct for takeaway
+5
+SOP 5: Beverage Preparation Standards
+Objective: To ensure beverages (coffee, smoothies, protein shakes) are prepared consistently
+with standardised taste, hygiene, and preparation speed.
+Scope
+Applies to all beverage preparation staff.
+Responsible Staff
+• Beverage Station Staff
+• Shift Supervisor
+Required Equipment
+• Coffee machine
+• Blender
+• Measuring scoops
+• Milk frother
+• Ingredient containers
+Confidential — Internal Use Only                                                                     7
+----------------Page (6) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+Step-by-Step Procedure
+1. Order Verification
+5 sec
+Check beverage order on POS display. Confirm cup size and customisation.
+2. Ingredient Preparation
+15 sec
+Prepare ingredients: Smoothie = fruit + milk + protein powder; Coffee = espresso +
+milk.
+3. Beverage Preparation
+45–60 sec
+• Coffee: Extract espresso shot and steam milk.
+• Smoothies: Blend ingredients for 20–30 seconds.
+• Protein shakes: Blend for 15 seconds.
+4. Presentation
+10 sec
+Pour into the correct cup size. Add lid and straw if takeaway.
+Quality Control Checklist
+✓ Correct cup size used✓ Beverage temperature 60–65°C (hot drinks)
+✓ Smooth texture for blended drinks✓ Order matches POS receipt
+Total Expected Preparation Time: 60–90 seconds
+Confidential — Internal Use Only                                                                     8
+----------------Page (7) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+6
+SOP 6: Protein Bowl / Healthy Meal Assembly
+Objective: To standardise the preparation of protein bowls and meals to ensure consistency
+and speed.
+Scope
+Applies to all kitchen staff responsible for
+bowl preparation.
+Responsible Staff
+• Kitchen Staff
+• Shift Supervisor
+Required Equipment
+• Prep containers
+• Portion scoops
+• Assembly station
+• Food gloves
+Step-by-Step Procedure
+1. Order Check
+5 sec
+Review order from POS display.
+2. Base Preparation
+20 sec
+Add base ingredient (e.g., millet, oats, soba noodles, whole wheat pasta).
+3. Protein Component
+20 sec
+Add protein portion (e.g., paneer, tofu, nutrela, beans) using standard portion scoop.
+4. Vegetables and Toppings
+20 sec
+Add vegetables and sauce according to the recipe.
+5. Packaging / Serving
+10 sec
+Serve in a bowl or takeaway container.
+Quality Control Checklist
+✓ Correct portion size✓ Balanced ingredient distribution
+✓ Proper temperature maintained✓ Bowl matches POS order
+Total Expected Preparation Time: 2–3 minutes
+7
+SOP 7: Food Safety and Hygiene Standards
+Objective: To maintain strict hygiene standards and prevent food contamination.
+Confidential — Internal Use Only                                                                     9
+----------------Page (8) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+Scope
+Applies to all employees handling food.
+Responsible Staff
+• Store Manager
+• Kitchen Staff
+• Shift Supervisor
+Hygiene Requirements
+All staff must:
+• Wash hands every 30 minutes.
+• Wear gloves when handling food.
+• Wear hair nets.
+• Sanitise work surfaces regularly.
+Step-by-Step Procedure
+1. Hand Hygiene
+30 sec
+Wash hands using soap for 20 seconds.
+2. Surface Sanitisation
+1 min
+Clean preparation surfaces with a food-safe sanitiser.
+3. Cross-Contamination Prevention
+Separate storage areas for raw ingredients, cooked food, and dairy products.
+4. Temperature Control
+Refrigerator temperature must remain between 2°C – 5°C.
+Quality Control Checklist
+✓ Staff wearing gloves and hair nets✓ Surfaces sanitised
+✓ Refrigerator temperature maintained✓ No expired ingredients used
+Confidential — Internal Use Only                                                                    10
+----------------Page (9) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+8
+SOP 8: Inventory Management and Daily Stock Checks
+Objective: To ensure sufficient ingredient availability while minimising waste.
+Scope
+Applies to all kitchen and store manage-
+ment staff.
+Responsible Staff
+• Store Manager
+• Kitchen Staff
+Required Tools
+• PetPooja inventory module
+• Stock register
+• Barcode scanner
+Step-by-Step Procedure
+1. Daily Opening Stock Check
+5 min
+Count key ingredients: paneer, tofu, vegetables, sauces, milk.
+2. POS Inventory Update
+3 min
+Update stock levels in the POS inventory system.
+3. Mid-Day Stock Monitoring
+2 min
+Supervisor checks high-usage items.
+4. Reorder Trigger
+2 min
+If stock falls below the minimum threshold, place a reorder request.
+Quality Control Checklist
+✓ Stock levels updated in POS✓ No expired items in inventory
+✓ Minimum stock thresholds maintained✓ Ingredients stored properly
+Total Expected Check Time: 10 minutes
+9
+SOP 9: Ingredient Storage and Cold Chain Management
+Objective: To maintain ingredient freshness, safety, and quality through proper storage and
+temperature control.
+Scope
+Applies to all kitchen and inventory staff
+handling food ingredients.
+Responsible Staff
+• Store Manager
+• Kitchen Staff
+• Shift Supervisor
+Required Equipment
+• Refrigerators
+• Freezers
+• Temperature log sheet
+• Airtight storage containers
+Confidential — Internal Use Only                                                                    11
+----------------Page (10) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+Step-by-Step Procedure
+1. Ingredient Receiving
+3 min / batch
+Inspect ingredient quality upon delivery. Check packaging integrity and expiry date.
+2. Temperature Check
+1 min
+Measure the temperature of refrigerated items before storage.
+• Refrigerated products: 2°C – 5°C
+• Frozen products: −18°C or below
+3. Storage Organisation
+3 min
+Store ingredients by category (dairy, vegetables, protein, sauces). Label all containers
+with the date of storage.
+4. FIFO Implementation
+Continuous
+Follow First-In-First-Out (FIFO) principle. Older stock must be used before newer
+stock.
+Quality Control Checklist
+✓ All ingredients labelled with date✓ Refrigerator temperature logged every 4 hours
+✓ FIFO followed✓ No expired ingredients in storage
+Confidential — Internal Use Only                                                                    12
+----------------Page (11) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+10
+SOP 10: Waste Management and Expiry Control
+Objective: To minimise food wastage and ensure expired ingredients are properly discarded.
+Scope
+Applies to all staff responsible for ingredi-
+ent handling.
+Responsible Staff
+• Store Manager
+• Kitchen Staff
+Required Equipment
+• Waste bins
+• Expiry tracking log
+• Inventory system
+Step-by-Step Procedure
+1. Expiry Check
+3 min
+Kitchen staff check ingredient expiry at the start of each shift.
+2. Waste Segregation
+2 min
+Separate waste into: food waste, packaging waste, and recyclable materials.
+3. Expired Item Disposal
+1 min
+Expired items must be recorded in the waste log and discarded immediately.
+4. Waste Reporting
+2 min
+Manager reviews the waste report daily to identify over-ordering or low-demand items.
+Quality Control Checklist
+✓ No expired items used in preparation✓ Waste log updated daily
+✓ Waste bins cleaned regularly✓ Excess wastage reported to manager
+11
+SOP 11: Customer Service and Complaint Handling
+Objective: To resolve customer complaints quickly and maintain positive customer relation-
+ships.
+Scope
+Applies to all customer-facing staff.
+Responsible Staff
+• Cashier
+• Shift Supervisor
+• Store Manager
+Step-by-Step Procedure
+1. Listen to the Customer
+30 sec
+Allow the customer to explain the issue without interruption.
+2. Acknowledge the Issue
+10 sec
+Confidential — Internal Use Only                                                                    13
+----------------Page (12) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+Respond politely: “We’re sorry for the inconvenience. Let me fix this for you immediately.”
+3. Verify the Issue
+20 sec
+Check order receipt and the prepared item.
+4. Offer Resolution
+1 min
+Possible resolutions: replace item, refund, or provide a complimentary item.
+5. Record Complaint
+20 sec
+Log the issue in the complaint register.
+Quality Control Checklist
+✓ Customer treated respectfully✓ Complaint resolved within 3 minutes
+✓ Issue recorded in complaint log✓ Manager notified if repeated issue occurs
+Confidential — Internal Use Only                                                                    14
+----------------Page (13) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+12
+SOP 12: Store Closing Procedure
+Objective: To ensure the store is cleaned, inventory is secured, and systems are properly shut
+down at the end of the day.
+Scope
+Applies to all closing shift staff.
+Responsible Staff
+• Store Manager
+• Shift Supervisor
+• Kitchen Staff
+Step-by-Step Procedure
+1. Stop New Orders
+Stop accepting new orders 10 minutes before closing time.
+2. Equipment Shutdown
+5 min
+Turn off: coffee machines, blenders, cooking equipment.
+3. Cleaning
+10 min
+Clean: kitchen counters, equipment surfaces, dining area.
+4. Inventory Check
+5 min
+Record remaining stock and update POS inventory.
+5. POS Closing
+2 min
+Generate daily sales report from POS.
+Quality Control Checklist
+✓ Kitchen cleaned and sanitised✓ POS sales report generated
+✓ Refrigerators checked and closed✓ Store locked securely
+Total Expected Closing Time: 20–25 minutes
+13
+SOP 13: Staff Training and Onboarding
+Objective: To train new employees on Alpino Café operations and ensure consistent service
+quality.
+Scope
+Applies to all new hires.
+Responsible Staff
+• Store Manager
+• Training Supervisor
+Training Duration
+15–20 Days structured programme
+Confidential — Internal Use Only                                                                    15
+----------------Page (14) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+Training Programme Structure (15–20 Days)
+Module    Title
+Topics Covered
+Duration
+1      Brand Orientation
+Alpino brand values, clean-label
+philosophy, customer service standards    1 Day
+2      POS System Training
+Order entry, payment processing,
+inventory updates                        2 Days
+3      Kitchen Operations
+Beverage preparation, protein bowl
+assembly, hygiene standards             10 Days
+4      Customer Service
+Greeting customers, complaint
+handling, upselling techniques            3 Days
+Quality Control Checklist
+✓ Staff completes all training modules✓ Supervisor evaluation completed
+✓ Staff demonstrates correct preparation methods✓ Staff certified before independent work
+Confidential — Internal Use Only                                                                    16
+----------------Page (15) Break----------------
+ALPINO CAFÉ · Standard Operating Procedures                                 QSR Operations Handbook
+14
+SOP 14: Franchise Quality Audit Checklist
+Objective: To maintain consistent brand standards across all franchise outlets.
+Scope
+Applies to all Alpino franchise locations.
+Responsible Staff
+• Franchise Operations Manager
+• Quality Audit Team
+Audit Frequency
+Conducted once every month across all
+franchise locations.
+Audit Areas
+#    Area
+Details
+1    Store Hygiene
+Cleanliness of the kitchen and staff hygiene compliance
+2    Food Quality
+Taste consistency and ingredient freshness
+3    Service Speed
+Order taking→ 45 sec · Beverage prep→ 90 sec · Delivery →
+<3 min
+4    POS and Reporting
+Verify POS accuracy, daily sales reporting, and inventory
+updates
+5    Brand Standards
+Uniform compliance, menu consistency, and branding
+materials
+Audit Scoring System
+Evaluated on a 100-point scale:
+90–100
+Excellent
+75–89
+Acceptable
+Below 75
+Corrective Action
+Quality Control Checklist
+✓ Audit report completed✓ Operational issues documented
+✓ Improvement plan issued if necessary
+Confidential — Internal Use Only                                                                    17
+----------------Page (16) Break----------------
+ALPINO CAFÉ
+This document is the property of Alpino Café Operations.
+It is confidential and intended for internal franchise use only.
+Unauthorised reproduction or distribution is strictly prohibited.
+Speed · Consistency · Hygiene · Customer Experience · Franchise Scalability
+----------------Page (17) Break----------------

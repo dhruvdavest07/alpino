@@ -1,0 +1,531 @@
+ 
+ 
+ 
+Capstone  Pr oject Report-  Second  Draft  
+ 
+Title- Strategic  Expansion  of Alpino  Pr otein  Café  via 100 Franchise  Stor es 
+ 
+Faculty  Mentors  :- Pr of Jinraj  Joshipura  and Pr of Ravi  Miglani  (Co-Mentor)  
+Gr oup Members  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+AU2210216             Mahek  Parwani          B.B.A.  (Hons)  
+AU2210105             Roshni  Lulla          B.B.A.  (Hons)  
+AU2210383             Hritika  Somaiya          B.B.A.(Hons)   
+AU2210376             Khushi  Shah           B.B.A.(Hons)   
+AU2240096             Dhruv  Dave           BT ech CSE  
+AU2210382             Zeus  Khambata           B.B.A.(Hons)   
+----------------Page (0) Break----------------
+ 
+ 
+Table  of Contents  
+ 
+Chapter  No   Chapter                      Page  No. 
+1.      Introduction  and Description  of the Project                     3 
+       1.1 Introduction                                 3 
+       1.2 Purpose                                   3 
+       1.3 Problem  Statement                              3 
+       1.4 Description  of problem  statement                         3 
+       1.5 Theoretical  Framework                            4 
+       1.6 Limitations  of Study                              5 
+       1.7 Significance  of Project for Professional  Practice                  5 
+       1.8 Definition  of Terms                              6 
+2.      Literature  Review                                7 
+3.      Methodology                                  9 
+4.      Cities  Recommendation                              10  
+5       Standard  Operating  Procedures  (SOPs)                         
+6       Market  Entry Plans                                
+       6.1 Ahmedabad                                    
+       6.2 Surat                                     
+7       ROI  Analysis                                    
+8       Bibliography                                    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+----------------Page (1) Break----------------
+ 
+1 Intr oduction  and Description  of the Pr oject 
+ 
+1.1 Intr oduction   
+Alpino  Health  Foods  is an Indian  brand founded  in 2016  in Surat under the name  Esterella Overseas.   
+Their objective  was to cater to the growing  demand  for protein among  consumers.  They  have  created a clean 
+brand that sells products  like peanut  butter , protein powder , protein bars, and rolled  oats.  
+ 
+Their idea  is to keep  the nutrition in the food  intact by  minimal  processing  and little to no  preservatives  and 
+artificial flavors.  They  also featured  on  Shark  Tank Season  1 in 2021. They  are currently present in 15+ 
+countries.  They  have  also received  recognition  from  PM  Narendra  Modi,  the Great Khali,  and have  currently 
+partnered  with  Shilpa  Shetty  as their brand ambassador .  
+ 
+1.2 Statement  of purpose   
+The purpose  of our capstone  project is to provide  the company  with  a framework  for opening  100 franchise  
+stores  nationwide.  It includes  the following  objectives  -  
+1. Establish  franchise  business  model  and SOPs  to franchise  partners. 
+2. Develop  a clean label cafe  menu  with  a suitable  pricing structure.  
+3. Develop  an expansion  plan  on  a city-by-city  basis, taking  the 15  most  recommended   cities, and the plan  of 
+market-entry . 
+4. Prepare  marketing  launch  kits and other support  materials,  an investor  / franchise  pitch deck  and ROI  model.  
+5. Construct  a tech-enabled  support  system  and create  a conclusive  action  blueprint on  100 cafe  expansion.  
+ 
+1.3 Pr oblem  Statement   
+Lack  of a clean-label  food  brand that serves  the growing  demand  of consumers  for healthy and protein-rich  
+food.  
+ 
+1.4 Description  of pr oblem  statement   
+ 
+The younger  population  in the country  has become  increasingly  health-conscious.  There  are also predictions  by  
+doctors supported  by  data, which  show  the risk of cardiovascular  diseases  among  youngsters.  Owing  to these 
+factors,  there is a market  gap for a clean-label,  healthy food  brand that offers protein-rich  dishes  to reach 
+health-conscious  consumers.   
+3 
+----------------Page (2) Break----------------
+ 
+ 
+It has resulted  in an abrupt  change  in the consumer  market  to healthy and protein rich food. This  rising 
+awareness  among  customers  of a healthy, diet-conscious  lifestyle has opened  up  a new  market  for health  foods 
+which  Alpino  has identified  and proposed  a protein cafe.  
+ 
+Their aim is to cater to this health-conscious  market  by  providing  healthy food  and beverages.  They  have  
+successfully  launched  a pilot cafe  in Surat and now  want  to expand  to Tier 1 and Tier 2 cities.  
+Alpino  Health  Foods  seeks to fill this gap to the consumers,  which  will offer them  healthy and nutritious  meals.  
+ 
+1.5 Theor etical Framework   
+ 
+The current research  falls into the theoretical framework  of the franchising  theory , the consumer  behavior  
+theory  and operations  management   principles. The theory  of franchising  has stressed  that standardization,  
+control systems  and distinct distribution  of functions  between  franchisors  and franchisees  is essential to achieve  
+scalable  and consistent  growth.  These  are especially  applicable  in food  and beverage  related businesses  where  
+uniformity  in product  quality, service provision  and brand experience  is paramount  in customer  confidence.  
+ 
+The theory  of consumer  behavior  is the basis of the analysis  of the increased  demand  of protein-rich  and 
+clean-label  food  choices.  Lifestyle choice, and health  and nutrition awareness  largely  determines  the food  
+decisions  made  by  urban and semi-urban  consumers.  These  trends  in behavior  characterize  the growing  
+popularity  of protein cafes and support  the grandiose  of the Alpino  Health  Foods  to spread  the cafe  format  in 
+Tier 1 and Tier 2 cities. 
+ 
+This  project is further informed  by  operations  management   concepts  like process  standardization,  cost control,  
+capacity  utilization and inventory  management.  Franchised  cafes require efficient operations  since differences  
+in staff skills, menu  complexity , and the supply  chain practices would  directly  influence  profitability and 
+scalability.  
+ 
+The systems  that are enablers  include technology-based   systems,  including  POS,  inventory  management,  and 
+CRM  platforms,  which  offer visibility, control,  and data-driven  decision-making  within  various outlets. 
+ 
+These  theories  are combined  and incorporated  in a conceptual  model  within  the scope of this project where  
+consumer  awareness  encourages  consumer  demand,  consumer  demand  dictates  menu  design  and pricing,  menu  
+4 
+----------------Page (3) Break----------------
+ 
+design  dictates  operational  complexity  and operational  efficiency  dictates  whether  franchise  expansion  is 
+feasible  or not.  
+ 
+This  framework  is used  in the Alpino  Protein Cafe  expansion  strategy  to make  sure  that the expansion  is 
+facilitated by  standard  systems,  achievable  unit economics,  and uniform  customer  experience.  
+ 
+ 1.6 Limitations  of the Study  
+ 
+This  research  paper has some  drawbacks  that must  be listed. The main  study undertaken  for the project is 
+limited to a few cafes and locations,  which  might  not fully capture consumer  behavior  and operations  across  all 
+parts of India.  In addition, the financial and operational  data  collected at the cafe  visit is estimated  and 
+management-oriented   as opposed  to audited financial statements,  and this may  undermine  the validity  of the 
+cost and profitability analysis. 
+ 
+The project is also oriented  toward  the conceptual  design  of franchise  models,  SOP  frameworks,  and technology  
+systems  rather  than  their active  implementation.  The conclusions,  therefore,  will be directed  to strategic 
+planning  and decision  making,  and not as an operations  guide.  In spite of these shortcomings,  the study offers 
+rich information  sufficient for consideration  during  academic  review  and strategic recommendations.   
+ 
+1.7 Significance  of Pr oject for Pr ofessional  Practice  
+ 
+The capstone  project is of great importance  to professional  practice  in business  strategy , franchising,  and food  
+and beverage  management.  It shows  how  theory  can be used  into practical models  with  help  of field research  
+and systematic  analysis. The project offers a scalability methodology  for health-based  cafe  brands  and handles  
+the universal  constraints  of uneven  operations,  employee  reliance, and cost management.  
+ 
+To the entrepreneurs  and practitioners  in the industry , the project will provide  a template  on  how  to expand  the 
+franchise  to include menu  development,  pricing,  technology  facilitation, and market  analysis  city by  city. It is an 
+example  of interdisciplinary  problem-solving  in the form  of a combination  of consumer  behavior , operations  
+management,  and strategic planning  for students  and academic  professionals.  
+ 
+ 
+ 
+5 
+----------------Page (4) Break----------------
+ 
+1.8 Definition  of Term  
+ 
+Clean-Label  Food:  Food  items that are processed  with  little or no  food  preservatives,  flavorings,  or other food  
+additives.  
+ 
+Protein Cafe: A cafe  based establishment  whose  idea  is to provide  protein-based  food  and beverages  in line with  
+health  and fitness objectives.  
+ 
+Franchise  Model:  It is a type  of business  where  franchisor  gives out license of its brand systems  and processes  
+to the franchisee.  
+ 
+Standard  Operating  Procedures  (SOPs):  This  is written-down  policies  that guarantee  that food  is prepared,  
+served, staff trained,  and inventory  managed  in a consistent  manner . 
+ 
+Average  Order  Value  (AOV):  This  is the average  dollars a customer  spends  on  each  transaction.  
+ 
+Unit  Economics:  This  is a financial performance  analysis  done  at the outlet level. 
+ 
+POS  (Point  of sale system):  This  is a digital system  that can be utilized  in billing, inventory  tracking, and sales 
+reporting.  
+ 
+CRM  (Customer  Relationship  Management):   Solutions  that are employed  to control customer  information,  
+loyalty programs,  and repeat-based  engagement.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+----------------Page (5) Break----------------
+ 
+2 Literatur e Review  
+The health  based food  and drink industry  has been  increasingly  on  the upward  trend today because  of the 
+surging  level of lifestyle diseases  and heightened  health  consciousness  among  the consumers  since the covid.  
+Customers  have  begun  shifting  to high-calorie  foods to those that are nutritious. According  to Mordor  
+Intelligence  the existing  Indian  protein market  is estimated  to be USD  1.52  billion and is expected  to increase  at 
+a CAGR   of 6.5 till the year  2030. The main  reasons  behind  this accelerated  growth  are the increasing  
+urbanisation,  the exposure  of the people  to worldly  food  trends  due to social  media  and the augmented  capacity  
+of the people  to spend.  
+The current literature on  the topic of the health-based  F&B  sector  equally points  to the fact that in spite of the 
+high  consumption  of ener gy-dense  food  by  people, the Indian  society has a serious protein deficit. According  to 
+a study done  by  Reuters  and other nutritional surveys,  nearly  73  percent of Indians are deficient in protein.  Due  
+to this imbalance,  there has been  the appearance  of protein-rich  food, functional  foods and vegan  protein as 
+viable  options.  
+According  to a study conducted  by  CEEW  , the current protein consumption  of Indians amounts  to 
+approximately  56  grams  per day, but half of this is merely  the intake  of low-quality  amino  acid-containing  
+cereals like wheat,  maida,  and suji, which  are poorly  digestible. This  high  cereal  intake  as a source  of protein 
+exceeds  the recommended   32  percent of cereals.  Other high-quality  sources  of proteins  are not taken or 
+consumed  due to lack  of awareness,  non-availability  among  rural people, or under-provision  of these 
+high-quality  protein sources  within  government  food  programmes   like the Public  Distribution  System.  
+Indian  diets are very  reliant on  cooking  oils and wheat  or rice. In India,  pulses  are not being consumed  
+according  to the required  levels  and are contributing  about 11 percent of the protein consumption  with  the 
+required  levels  being 19  percent,  thus  forming  an enormous  nutritional disproportion.  The other point of 
+concern  is the salt content in Indian  diets. It contains  approximately  11 grams  of salt daily, which  is twice the 
+amount  advised  by  the WHO  of 5 grams  of salt per day. In order to deal  with  these issues, there isa  need  to 
+ensure  that protein-rich  food  offerings are available to Indian  citizens  at affordable  prices, conveniently , and in a 
+way  that is acceptable  to all. 
+Furthermore,  while conducting  research  on  food  service trends, I noticed that health-oriented  cafes are gaining  
+popularity  and have  become  a strong  niche in the food  and beverage  industry . In an article published  in The 
+Times  of India,  it is stated  that the increasing  culture of gyms  has prompted  the existing  food  brands, food  
+7 
+----------------Page (6) Break----------------
+ 
+delivery  services, as well  as the emer ging  cafes to add protein-rich  foods in their menu.  The urban Indian  
+population  is in growing  need  of health-conscious  food  options offering  low-cost,  healthy meals.  
+The Indians consume  very  little protein compared  to the 48  grams  per day recommended   by  the Indian  Council  
+of Medical  Research  (ICMR).  The ideal protein intake  by  an average  Indian  adult is 0.8-1 gram  of protein per 
+kilogram  body  weight  with  the average  being only  0.6 gram.  Studies based on  the findings  of the National  
+Sample  Survey  (201 1-12) indicate  that consumption  of protein products  is decreasing  at the per capita  levels  in 
+rural and urban India.  The biggest cause of this loss is the high-cereal  diets that provide  low-quality  and 
+ill-digestible  protein.  This  loss is mainly  due to high  consumption  of grains, which  contain low quality, and do  
+not digest  protein.  Comparison   of the global  data  shows  that India has one of the lowest  protein consumers  in 
+the globe.  
+Industry-oriented  publications  also facilitate the growth  of the demand  for health-conscious  food  options in 
+India.  According  to the article by  Restaurant  India titled Why  There  Is a Sudden  Growth  of Healthier  Meal  
+Options  in Restaurants,  the trend of eateries  and cafes offering  healthier and higher -protein  meal  options was 
+caused  by  the increased  fitness culture,  post-pandemic  lifestyle changes,  and the rise in health  awareness.  This  
+trend is in line with  studies that have  indicated  the shift to a lack  of high-caloric  meals,  rather , high-nutrition  
+and functional  foods,  particularly  in urban India.  The report  indicates that the food  service businesses  are 
+increasingly  responding  to the consumer  demand  of well-balanced  and high-protein  foods,  which  further 
+substantiates  more  generalized  research  on  the necessity  to provide  inclusive and sustainable  health-based  food  
+solutions.Nevertheless,  it also highlights  the role of affordability and accessibility, a concern  raised  in previous  
+studies.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+----------------Page (7) Break----------------
+ 
+3 Methodology   
+ 
+To ensure  the project is grounded  in actual  market  behavior  rather  than  guesswork,  we  chose a practical,  
+field-based  research  methodology . We have  started by  visiting  established  healthy cafes in Ahmedabad   to 
+understand  their operations.  We communicated   with  their managers  and attempted  to understand  their pricing 
+scheme,  menus,  customer  awareness,  footfall, etc. 
+ 
+Having  identified  the supplier  position, we  are now  successfully  conducting  a survey  of health-conscious  folks 
+to find out what  consumers  want. We shall concentrate  on  learning  more  about their food  habits, protein 
+consciousness,  price consciousness,  their favorite  time  to eat, etc. This  assists in the demand-side  expectations  
+of the potential customers.  
+ 
+The findings  from  cafe  visits and consumer  surveys  will be merged and evaluated  to create  a scaled  menu,  
+pricing structure,  and customer  experience  at Alpino  Protein Cafe. Such  results will be subsequently  utilized  to 
+develop  a viable  franchise  structure,  business  principles, and an urban-scale  expansion  strategy  to grow  100 
+cafes in India.  
+ 
+Besides  field visits and consumer  research, we  will also use information  provided  by  the company , including  
+sales figures,  average  order values, and details on  the software  systems  used  at Alpino.  This  will be analyzed  in 
+order to better understand  the real consumer  base, preferences,  and purchasing  behavior . This  will help  us keep  
+the final recommendations   we  make  for this project rooted  in the realities on  the ground  and the project's overall 
+objectives.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+----------------Page (8) Break----------------
+ 
+4 Cities  Recommendation:    
+As  per our analysis, the following  cities provide  best opportunities  for Alpino  Protein Cafe  to expand  their 
+franchise  outlets. 
+  
+1. Delhi:  
+A large portion of its population  comprises  young  professionals,  student communities,  and fitness enthusiasts  
+who  are health-conscious  and frequent  gym-goers.  Such  people  are usually short of time  and skills to cook  their 
+own  meals,  and thus  they  trust cafes and restaurants  that can deliver quality post-workout  meals  in a convenient  
+and inexpensive  manner . According  to an industry  indicator, the post-workout  meals  are a new  category  that is 
+gaining  23%  market  share.  This  shows  that it accounts  for almost  a quarter of total restaurant  visits in Delhi,  
+with  customers  being proactive  in ordering  foods rich in protein and carbohydrates.  
+ 
+2. Chandigarh:  
+It is regarded  as a food  hub in North  India.  Even  more  Generation  Zs  and millennials  are going to cafes.  The 
+recent  boom  in health-focused  cafes and restaurants  shows  that healthy food  is in high  demand  among  urban 
+dwellers.  The city’s inclusion  in Swiggy’ s ‘High Protein Category’  program  highlights  that there is increased  
+demand  for protein-based  food  within  the city. 
+ 
+3. Hyderabad-  
+India's sixth-largest food  services  market  is projected  to grow  by  12  percent per year . It is composed  of a 
+better-organized  vegetarian  sector . There  is high  QSR  penetration  due to urbanization,  a professional  youth 
+population,  and increased  disposable  income.  
+ 
+4. Bengaluru:   
+Bengaluru  is the most  health-conscious  city in India,  with  the largest concentration  of start-ups and tech  
+professionals,  and a strong  culture of gyms/  yoga  classes.  A large percentage  of the population  adheres  to the 
+organized  fitness programs  and is interested  in high-protein,  functional  food, particularly  after physical  activity. 
+The lack  of time  among  the working  population  makes  cafes that offer easy  access  without  reducing  the 
+nutritional value more  reliable. Despite  the competition,  the massive  size of the addressable  market  and 
+Bengaluru's  high  acceptance  rates make  the city a strategic flagship  city in terms of brand visibility and scale. 
+ 
+ 
+ 
+10 
+----------------Page (9) Break----------------
+ 
+5. Pune :  
+Pune  has a high  student population,  young  professionals,  IT workers,  and health-conscious  consumers  in a 
+high-density  area. Its cafe  culture is well-established  and embraces  trends  in health  and wellness.  With several 
+universities, technological  parks,  and fitness centers in the regions of Hinjewadi,  Baner , and Viman  Nagar , there 
+is always  a need  for inexpensive,  nutritionally rich food. Pune  consumers  are price-sensitive  and experimental,  
+which  makes  it a perfect market  for a clean-label,  value-oriented  protein cafe  concept.  Online  food  delivery  and 
+takeaways  also contribute  to the business's  scalability. 
+ 
+6. Lucknow:  
+As  a developing  Tier 2 city, Lucknow  has a rapidly growing  student population,  a young  professional  
+population,  and an aspirational  middle  class. Although  it has conventionally  been  associated  with  hearty  food, a 
+shift toward  health-conscious  eating  is evident among  young  people  who  frequent  gyms  and working  corporate  
+citizens. Café  culture is expanding  in neighbourhoods   around  universities, coaching  facilities, and mixed-use  
+commercial  estates. A protein cafe  that serves  clean-label,  affordable  food  without  sacrificing taste can easily  
+exploit this change  in consumer  attitude  at relatively  low competition  and rental rates. 
+ 
+7. Ahmedabad:   
+The young  health-conscious  crowd,  people  are quite open  to trying  new  brands, and the city has a very  foodie  
+culture.  
+ 
+8. Indore: 
+Once  more,  it's a city with  a high  eating-out  culture.  The availability  of universities  implies a juvenile  
+population.  Also, if the menu  items are budgeted,  students  will be easily  tempted  to consume  healthy food, yet 
+they  do  not want  to spend  heavily. 
+ 
+9. Jaipur: 
+A tourist spot  implies a flow  of people  willing to visit new  concept  cafes.  Particularly  when  the site is close to 
+well-known  places, there is a high  possibility of high  traffic. 
+ 
+10. Vadodara:  
+The crowd  in Vadodara  is a well-balanced  blend of students, young  workers,  and a culturally  updated  crowd.  
+The number  of fitness centers (gyms,  yoga  centers,  sports  clubs)  is increasing  in the city, which  generates  great 
+interest in protein-based  and healthy cafe  products.  The cafe  market  in Ahmedabad   is not as saturated as in 
+11 
+----------------Page (10) Break----------------
+ 
+Calcutta, and thus, Alpino  should  be able  to build early brand recognition  without  egregious  rental and 
+operation  expenses.  
+ 
+11. Rajkot: 
+Rajkot  is a developing  Tier-2 city that is experiencing  a rise in disposable  income  as well  as a high  population  
+of youth.  Gyms,  fitness influencers,  and health  awareness  have  grown  at a very  fast rate in the city over  the past 
+few years.  Competition  in branded  protein cafes is minimal,  hence  Alpino  will be able  to establish itself as a 
+pioneer , with  reduced  rentals and penetration  into the market.  
+ 
+12. Gandhinagar:  
+Being  an intended  capital city, the level of government  employees,  PSU  employees,  and professionals  have  a 
+stable  expenditure  capacity  within  Gandhinagar . Cafe  culture is in its early stages  particularly  in areas 
+surrounding  Infocity  and universities. Alpino  has the potential of tapping  into an untapped  yet high  quality 
+market  in search  of clean,  healthy, and reliable  food  products.  
+ 
+13. Nashik:  
+Nashik  is a mixture  of students, tourists, and health-conscious  residents and in particular  because  of lifestyle 
+and health-conscious  atmosphere.  Cafe  culture is growing  in the city, although  it has few protein cafes that are 
+specialised.  Alpino  has an opportunity  to use this gap and attract daily customers  as well  as fitness consumers.  
+ 
+14. Nagpur:  
+It is a fast developing  Tier-2 city with  a growing  infrastructure,  migration  of young  people, and the growth  of 
+fitness awareness.  Real  estate is much  cheaper  compared  to Mumbai  or Pune, and therefore it can be easily  
+expanded  on  a long  term  basis. The first-mover  advantage  can be used  in the protein cafe  segment  to the 
+advantage  of Alpino.  
+ 
+15. Thane:  
+The young  working  population  and families  have  a high  population  in Thane  that is becoming  health  conscious.  
+There  is a high  gym  and fitness culture in the city that has less niche protein cafes than  Mumbai.  By  missing  the 
+extreme  rental pressures  in central Mumbai,  Alpino  will be able  to capitalize  on  this demand.  
+ 
+ 
+ 
+12 
+----------------Page (11) Break----------------
+ 
+16. Navi  Mumbai:  
+Navi  Mumbai  is a progressive  city having  contemporary   infrastructure  and information  technology  parks and a 
+youthful  workforce.  People  are very  conscious  about fitness and nutrition which  makes  them  the best customers  
+that Alpino  could get. The city offers favourable  mix and good  demand  together  with  relatively  affordable  
+operating  costs. 
+                   
+5.  SOP  
+6. Market  Entry  Plans  
+ 
+7.  ROI  Analysis  
+-Assumptions   
+A ROI  Model  is prepared  to assess  the feasibility of opening  a protein-based  café  in Surat and Ahmedabad.   The 
+model  is built using certain assumptions-  a mid-size  800 sq. ft QSR  with  a seating capacity  of around  20-30  
+people, and nine  staff working  at the café. The café  will be primarily  operated  with  the Company-Owned    
+Company-Operated    (COCO)  Model.  This  means  that all the profits will be retained  by  the company  itself, and 
+similarly, all the investment,  hiring  and training  of employees  and managing  operations  will be done  by  the 
+Alpino  Protein Café. 
+To estimate  revenue,  a bottom-up  approach  is followed,  by  identifying  the numbers  of orders  expected  to be 
+received  per day. Since revenue  is mainly  driven  by  the Average  Order  Value, an AOV  of ₹ 300.00  is assumed  
+in the base  case. An  initial capex  of ₹36.7 lakhs is assumed  which  covers  kitchen equipment,  furniture and 
+fixtures, interiors, POS  system  costs, and security  deposit of around  3-6 months  of rent. It is assumed  that the 
+useful  life of these assets  or the costs of these assets  will be amortised  over  10  years using the straight-line 
+depreciation  method.  Furthermore,  the costs have  been  segregated  into fixed and variable  costs, with  variable  
+costs including  the raw materials,  packaging,  and the storage costs and fixed costs include rent, fixed marketing,  
+electricity, and internet  and software  char ges. 
+Following  that, free cash  flows are calculated  by  adjusting  the operating  profit for depreciation,  changes  in 
+working  capital and initial capex  costs. IRR  is derived  using free cash  flows to understand  the overall return  
+generated  by  the investment.  
+-Analysis  of Results 
+Overall,  an IRR  of 29.20%  in Surat indicates that the café  would  be highly  profitable  and scalable. However , 
+the returns are sensitive to the orders  received  and the Average  Order  Value. 
+  
+ 
+13 
+----------------Page (12) Break----------------
+ 
+ 
+At  an AOV  of ₹250, the returns become  negative  which  indicates that the revenue  is not enough  to cover the 
+costs, and the project is not economically  viable. However , even  a modest  increase  in the AOV  to ₹300, 
+increases  IRR  significantly  to around  25%,  and further to around  65%  when  AOV  is ₹350. This  highlights  how  
+important  it is to make  effective pricing decisions  so that profits are achieved.  This  significant rise in IRR,  given 
+that AOV  is changed  by  a proportionately  smaller amount  might  be because  of a strong  operating  leverage.  
+Fixed costs remain  constant  while increasing  revenue  boosts  profitability.  
+Another  key driver  is the customer  footfall. Similar to AOV , a slight increase  or decrease  in no  of orders  can 
+dramatically  change  IRR.  At  an IRR  of around  25%,  the breakeven  for the café  happens  at around  4.6 years 
+which  seems  reasonable  in these types of cafes in the F&B  industry . 
+Thus, this sensitivity analysis  highlights  that the company  needs to have  a strong  brand identity  in order to keep  
+having  a large number  of orders  and hence  be profitable  and also the pricing must  be competitive  so that it 
+attracts customers,  boosts  revenue  and returns,  and not generate  losses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+----------------Page (13) Break----------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bibliography    
+ 
+Lessa,  K., Zulueta,  A., Esteve, M.  J., & Frigola,  A.  (2017). Study of consumer  perception  of healthy  menus  at 
+restaurants . 58 , 51–58. https://doi.or g/10.1016/j.foodqual.2017.02.002    
+ 
+Investigating  the psychology  of eating  after exer cise: A scoping  review . Journal  of Nutritional  Science,  14 , 
+Article e12.  https://www .ncbi.nlm.nih.gov/pmc/articles/PMC1   1811867/ 
+ 
+Hsu,  C.-Y ., Yeh, C.-H.,  Chiu, Y.-W., & Li, Y.-L. (2023). Consumer   attitudes and preferences for healthy  boxed  
+meal  attributes  in Taiwan:  Evidence  from  a choice  experiment . Nutrients,  15 (4), 1032. 
+https://doi.or g/10.3390/nu15041032    
+ 
+Restaurant  India.  (2022). Why  is there a sudden  growth  of healthier  meal  options  in restaurants?  
+https://www .restaurantindia.in/article/why-there-is-a-sudden-growth-of-healthier    -meal-options-in-restaurants.12
+277 
+15 
+----------------Page (14) Break----------------
+ 
+ 
+Kontogeor gos,  S., Koniari,  K., & Stathopoulou,  E. (2010). Consumers’   behaviours  and attitudes towar d healthy  
+food  products:  The case  of organic and functional  foods. International  Journal  of Consumer   Studies. 
+(Unpublished  manuscript).  Retrieved  from  
+https://www .researchgate.net/publication/46473248_Consumers'_behaviours_and_attitudes_toward_healthy_fo
+od_products_The_case_of_or   ganic_and_functional_foods    
+ 
+Devaru,  S. D.  B. (2022). Consumer   buying  behaviour  towar ds fast food  outlets in Bengaluru,  Karnataka,  India. 
+International  Journal  of Emer ging  Resear ch  in Management   & Technology , 7(1). Retrieved  from  
+https://www .researchgate.net/publication/374812826_CONSUMER_BUYING_BEHA          VIOUR_T  OW ARDS_F  A
+ST_FOOD_OUTLETS_IN_BENGALURU_KARNA           TKA_INDIA   
+ 
+ 
+ 
+ 
+ 
+16 
+----------------Page (15) Break----------------

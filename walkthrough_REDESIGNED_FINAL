@@ -1,0 +1,44 @@
+# Alpino Website Redesign — Walkthrough
+
+The Alpino website has been completely redesigned from the ground up, moving away from the basic, repetitive pinned-scroll layout to a truly premium, $100K-level aesthetic. The new design is highly dynamic, modern, and aligned with top-tier food & beverage and DTC brands.
+
+## 🎨 New Design System
+Using design intelligence from `ui-ux-pro-max`, we applied the **"Vibrant & Block-based"** pattern:
+*   **Typography:** Swapped basic sans-serif fonts for the highly elegant **Playfair Display SC** (for cinematic headings) and **Karla** (for readable, clean body text).
+*   **Color Palette:** An appetizing and energetic scheme featuring deep reds (`#DC2626`, `#991B1B`), warm gold accents (`#CA8A04`), and dark mode contrast (`#0B0B0D`).
+*   **Visual Style:** Added glassmorphism effects, floating UI elements, animated gradients, and subtle noise/grain overlays for texture.
+
+## ✨ Key Animations & Interactions (GSAP)
+The site now feels alive, responding to the user's scroll journey:
+*   **Cinematic Hero Entrance:** Staggered, skewed text reveal with floating, parallax-delayed imagery.
+*   **Scroll-Snapped Journey:** Smooth `scroll-snap-type: y proximity` keeps sections perfectly framed.
+*   **Micro-interactions:** Custom hover states on bento grid cards, image scaling on hover, and custom "shimmer" text effects.
+*   **Interactive Modals:** Kept all original modal functionality (Menu, Locations, Franchise) but wrapped them in the new sleek UI styling.
+
+## 🏗️ Rebuilt Sections (App.tsx)
+The monolithic [App.tsx](file:///c:/alpino/src/App.tsx) was completely rewritten to feature 12 distinct, high-impact sections:
+
+1.  **Fullscreen Hero:** A dramatic entrance with animated typography and floating dishes.
+2.  **Infinite Marquee:** A modern scrolling ticker highlighting key value props (30g+ Protein, Shark Tank, 100% Veg).
+3.  **Horizontal Menu Carousel:** An interactive swipe/scroll track showcasing "Chef's Favourites" with macro badges.
+4.  **Bento Grid Elements:** Apple-style staggered grid highlighting "Why We're Different" (No Junk, High Protein).
+5.  **Parallax Image Dividers:** Immersive full-bleed food photography.
+6.  **Animated Stats:** Number counters that tick up as you scroll.
+7.  **Split-Screen Story & Franchise:** High-contrast sections designed for maximum conversion.
+8.  **Visual Testimonials:** Clean, trustworthy review cards.
+9.  **Premium Footer & Navigation:** A floating, blurred top nav that shrinks on scroll, and a comprehensive structured footer.
+
+## 🎥 Verification Result
+Here is the automated browser verification recording showing the layout, scroll effects, and modal interactions working perfectly:
+
+*(Verification recording saved in artifacts directory)*
+
+---
+
+## 🔧 Final Polish Updates
+Based on user feedback, the following refinements were implemented and verified:
+1. **Typography & Encoding:** Fixed the character encoding issue with the Indian Rupee symbol (₹). Switched the price styling to `font-body` (Karla) to ensure the symbol renders cleanly and legibly.
+2. **Flagship Location:** Updated the flagship location hardcoded strings from "Mumbai" to **"Surat"**, and successfully injected the detailed address string (`Pragati Marg, inside Kratos Club, nr. BAGHBAN CIRCLE...`) into the [LocationsModal](file:///c:/alpino/src/App.tsx#225-250). 
+3. **Franchise Details:** Removed all references to FOCO, updated the text to correctly advertise the **COCO model**, and fixed the text encoding on the "₹20L+" investment card.
+
+*(End of Walkthrough)*
