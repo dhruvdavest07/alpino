@@ -2,8 +2,8 @@ import { useEffect, useRef, useState, useCallback } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
-  Menu, MapPin, Users, Coffee, ChevronRight, X, ArrowRight, Check, Flame,
-  ShoppingBag, Gift, Star, Zap, Shield, Leaf, Award, ChevronDown
+  Menu, X, ArrowRight, Check,
+  ShoppingBag, Gift
 } from 'lucide-react';
 import { CartProvider, useCart } from './context/CartContext';
 import CartDrawer from './components/CartDrawer';
@@ -435,7 +435,6 @@ function AppContent() {
         onLocationsClick={() => setLocationsModalOpen(true)}
         onFranchiseClick={() => setFranchiseModalOpen(true)}
         onLoyaltyClick={() => setLoyaltyModalOpen(true)}
-        onMenuOrderClick={() => setMenuModalOpen(true)}
         onSubscribe={() => showToast('Thanks for subscribing!', 'success')}
         showComingSoon={showComingSoon}
       />
