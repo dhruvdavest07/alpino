@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { MapPin, X, Menu, ShoppingBag } from 'lucide-react';
+import { X, Menu, ShoppingBag } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 
 interface NavProps {

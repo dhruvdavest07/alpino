@@ -5,12 +5,12 @@ interface FooterSectionProps {
   onLocationsClick: () => void;
   onFranchiseClick: () => void;
   onLoyaltyClick: () => void;
-  onMenuOrderClick: () => void;
+
   onSubscribe: () => void;
   showComingSoon: (feature: string) => void;
 }
 
-export default function FooterSection({ onMenuClick, onLocationsClick, onFranchiseClick, onLoyaltyClick, onMenuOrderClick, onSubscribe, showComingSoon }: FooterSectionProps) {
+export default function FooterSection({ onMenuClick, onLocationsClick, onFranchiseClick, onLoyaltyClick, onSubscribe, showComingSoon }: FooterSectionProps) {
   return (
     <footer style={{ background: 'var(--void)' }}>
       {/* Gold top rule */}

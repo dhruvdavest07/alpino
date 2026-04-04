@@ -41,7 +41,7 @@ function RotatingBadge() {
         <defs>
           <path id="circlePath" d="M70,70 m-55,0 a55,55 0 1,1 110,0 a55,55 0 1,1 -110,0" />
         </defs>
-        <text fill="rgba(245,237,216,0.5)" fontSize="10" fontFamily="'IBM Plex Mono', monospace" letterSpacing="3" textTransform="uppercase">
+        <text fill="rgba(245,237,216,0.5)" fontSize="10" fontFamily="'IBM Plex Mono', monospace" letterSpacing="3" style={{ textTransform: 'uppercase' } as React.CSSProperties}>
           <textPath href="#circlePath">{text}</textPath>
         </text>
       </svg>
