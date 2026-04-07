@@ -139,10 +139,11 @@ export default function HeroSection({ onMenuClick, onLocationsClick }: HeroSecti
           </div>
         </div>
 
-        {/* Bottom-left: Rotating badge */}
-        <div className="absolute bottom-12 left-12">
-          <RotatingBadge />
-        </div>
+      </div>
+
+      {/* Bottom-left: Rotating badge */}
+      <div className="absolute bottom-12 left-12 hidden lg:block">
+        <RotatingBadge />
       </div>
 
       <ScrollIndicator />
